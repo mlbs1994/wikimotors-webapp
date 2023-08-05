@@ -42,6 +42,15 @@ build/Release
 node_modules/
 jspm_packages/
 
+#Angular special directories
+.angular
+.angular-cli
+
+# IDE and editor specific files
+.vscode/
+*.idea/
+*.iml
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
